@@ -1,0 +1,41 @@
+{
+    "skill": [
+        "Activate the bottom Burner",
+        "Activate the top Burner",
+        "Turn on Light Switch",
+        "Open Slide Cabinet",
+        "Open left Hinge Cabinet",
+        "Open Microwave Door",
+        "Move Kettle to top left Burner"
+    ],
+    "task": {
+        "bottom_burner": [
+            "Turn the oven knob that activates the bottom burner.",
+            "Activate the bottom Burner"
+        ],
+        "top_burner": [
+            "Turn the oven knob that activates the top burner.",
+            "Activate the top Burner"
+        ],
+        "light_switch": [
+            "Turn on the light switch.",
+            "Turn on Light Switch"
+        ],
+        "slide_cabinet": [
+            "Open the slide cabinet.",
+            "Open Slide Cabinet"
+        ],
+        "hinge_cabinet": [
+            "Open the left hinge cabinet.",
+            "Open left Hinge Cabinet"
+        ],
+        "microwave": [
+            "Open the microwave door.",
+            "Open Microwave Door"
+        ],
+        "kettle": [
+            "Move the kettle to the top left burner.",
+            "Move Kettle to top left Burner"
+        ]
+    }
+}

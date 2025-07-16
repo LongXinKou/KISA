@@ -1,0 +1,196 @@
+{
+    "skill": [
+        "Rotate Block Right",
+        "Rotate Block Left",
+        "Push Block Right",
+        "Push Block Left",
+        "Slider Door Right",
+        "Slider Door Left",
+        "Open Drawer",
+        "Close Drawer",
+        "Lift Block from Table",
+        "Lift Block from Slider",
+        "Lift Block from Drawer",
+        "Put in Slider",
+        "Put in Drawer",
+        "Push into Drawer",
+        "Stack Block",
+        "Unstack Block",
+        "Turn on Lightbulb",
+        "Turn off Lightbulb",
+        "Turn on LED",
+        "Turn off LED"
+    ],
+    "task": [
+        "rotate_red_block_right",
+        "rotate_blue_block_right",
+        "rotate_pink_block_right",
+        "rotate_red_block_left",
+        "rotate_blue_block_left",
+        "rotate_pink_block_left",
+        "push_red_block_right",
+        "push_blue_block_right",
+        "push_pink_block_right",
+        "push_red_block_left",
+        "push_blue_block_left",
+        "push_pink_block_left",
+        "move_slider_left",
+        "move_slider_right",
+        "open_drawer",
+        "close_drawer",
+        "lift_red_block_table",
+        "lift_blue_block_table",
+        "lift_pink_block_table",
+        "lift_red_block_slider",
+        "lift_blue_block_slider",
+        "lift_pink_block_slider",
+        "lift_red_block_drawer",
+        "lift_blue_block_drawer",
+        "lift_pink_block_drawer",
+        "place_in_slider",
+        "place_in_drawer",
+        "push_into_drawer",
+        "stack_block",
+        "unstack_block",
+        "turn_on_lightbulb",
+        "turn_off_lightbulb",
+        "turn_on_led",
+        "turn_off_led"
+    ],
+    "rotate_red_block_right": [
+        "Rotate the red Block 90 degrees to the right.",
+        "Rotate Block Right"
+    ],
+    "rotate_blue_block_right": [
+        "Rotate the blue Block 90 degrees to the right.",
+        "Rotate Block Right"
+    ],
+    "rotate_pink_block_right": [
+        "Rotate the pink Block 90 degrees to the right.",
+        "Rotate Block Right"
+    ],
+    "rotate_red_block_left": [
+        "Rotate the red Block 90 degrees to the left.",
+        "Rotate Block Left"
+    ],
+    "rotate_blue_block_left": [
+        "Rotate the blue Block 90 degrees to the left.",
+        "Rotate Block Left"
+    ],
+    "rotate_pink_block_left": [
+        "Rotate the pink Block 90 degrees to the left.",
+        "Rotate Block Left"
+    ],
+    "push_red_block_right": [
+        "Push the red block right.",
+        "Push Block Right"
+    ],
+    "push_blue_block_right": [
+        "Push the blue block right.",
+        "Push Block Right"
+    ],
+    "push_pink_block_right": [
+        "Push the pink block right.",
+        "Push Block Right"
+    ],
+    "push_red_block_left": [
+        "Push the red block left.",
+        "Push Block Left"
+    ],
+    "push_blue_block_left": [
+        "Push the blue block left.",
+        "Push Block Left"
+    ],
+    "push_pink_block_left": [
+        "Push the pink block left.",
+        "Push Block Left"
+    ],
+    "move_slider_right":[
+        "slide the door to the right.",
+        "Slider Door Right"
+    ],
+    "move_slider_left":[
+        "slide the door to the left.",
+        "Slider Door Left"
+    ],
+    "open_drawer": [
+        "Open Drawer.",
+        "Open Drawer"
+    ],
+    "close_drawer": [
+        "Close Drawer.",
+        "Close Drawer"
+    ],
+    "lift_red_block_table": [
+        "Lift red Block from Table.",
+        "Lift Block from Table"
+    ],
+    "lift_blue_block_table": [
+        "Lift blue Block from Table.",
+        "Lift Block from Table"
+    ],
+    "lift_pink_block_table": [
+        "Lift pink Block from Table.",
+        "Lift Block from Table"
+    ],
+    "lift_red_block_slider": [
+        "Lift red Block from Slider.",
+        "Lift Block from Slider"
+    ],
+    "lift_blue_block_slider": [
+        "Lift blue Block from Slider.",
+        "Lift Block from Slider"
+    ],
+    "lift_pink_block_slider": [
+        "Lift pink Block from Slider.",
+        "Lift Block from Slider"
+    ],
+    "lift_red_block_drawer": [
+        "Lift red Block from Drawer.",
+        "Lift Block from Drawer"
+    ],
+    "lift_blue_block_drawer": [
+        "Lift blue Block from Drawer.",
+        "Lift Block from Drawer"
+    ],
+    "lift_pink_block_drawer": [
+        "Lift pink Block from Drawer.",
+        "Lift Block from Drawer"
+    ],
+    "place_in_slider": [
+        "put the grasped object in the slider.",
+        "Put in Slider"
+    ],
+    "place_in_drawer": [
+        "put the grasped object in the drawer.",
+        "Put in Drawer"
+    ],
+    "push_into_drawer": [
+        "push the object into the drawer.",
+        "Push into Drawer"
+    ],
+    "stack_block": [
+        "stack blocks on top of each other.",
+        "Stack Block"
+    ],
+    "unstack_block": [
+        "go to the tower of blocks and take off the top one.",
+        "Unstack Block"
+    ],
+    "turn_on_lightbulb": [
+        "toggle the light switch to turn on the light bulb.",
+        "Turn on Lightbulb"
+    ],
+    "turn_off_lightbulb": [
+        "toggle the light switch to turn off the light bulb.",
+        "Turn off Lightbulb"
+    ],
+    "turn_on_led": [
+        "push the button to turn on the green light.",
+        "Turn on LED"
+    ],
+    "turn_off_led": [
+        "push the button to turn off the green light.",
+        "Turn off LED"
+    ]
+}
